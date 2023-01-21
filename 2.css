@@ -128,9 +128,9 @@ main div:nth-child(1) p {
 	-webkit-text-fill-color: transparent;
 	width: 50%;
 	font-size: 90px;
-	font-weight: 500;
+	font-weight: 900;
 	line-height: 1.5;
-	font-family: 'Roboto Condensed', sans-serif;
+	font-family: 'cairo', sans-serif;
 }
 @keyframes leftTextAnimation {
 	0% {
